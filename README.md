@@ -50,3 +50,11 @@ Further, each side must be larger than 0.
 - [Basic Mathematics](http://www.basic-mathematics.com/) - [Types of Triangles](http://www.basic-mathematics.com/types-of-triangles.html)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/triangle-classification' title='Triangle'>Triangle</a> on Learn.co and start learning to code for free.</p>
+
+If you take the three sides of a triangle and add them in pairs, the sum is greater than (not equal to) the third side. 
+**If that is not true, then it is not possible to construct a triangle with the given side lengths.**
+<!-- * knows that triangles with no size are illegal
+* knows that triangles with negative sides are illegal -->
+* knows that triangles violating triangle inequality are illegal
+* knows that triangles violating triangle inequality are illegal 2
+* knows that triangles violating triangle inequality are illegal 3
